@@ -65,6 +65,6 @@ Demo Code & Documentation
 
 Note: Documentation for each demo/project is listed in the `README` section.
 
-[Hello-World]() : An introduction PHP Script that just displays text to the page
+[Hello-World](https://github.com/mdabydeen/php-basics/tree/master/demo/hello-world) : An introduction PHP Script that just displays text to the page
 
-[Login-PHP]() : An basic login script that helps you to understand the basics of HTTP, PHP & MySQL
+[Login-PHP](https://github.com/mdabydeen/php-basics/tree/master/demo/login-php) : An basic login script that helps you to understand the basics of HTTP, PHP & MySQL
