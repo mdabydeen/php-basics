@@ -35,8 +35,19 @@ However, this material is maintained to cater to anyone who has a basic understa
 License
 ------------
 
-This material is released under [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+ Copyright [2013] [Michael Dabydeen]
 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
 
 Getting Started
 ---------------
@@ -49,16 +60,16 @@ As part of the requirements for writing PHP code for these lessons, the followin
 
 For our purposes, we will be using a prepacked stack that ships with Apache (Web Server), PHP & MySQL. For easy initial setup, I would reccomend any of the following: 
 
-* (Windows Users) 
-	* [WAMP](http://www.wampserver.com/en/) - 
+*Windows Users 
+	* [WAMP](http://www.wampserver.com/en/) 
 		* [Download Here](http://www.wampserver.com/en/) 
 		* [Setup Instructions](http://www.wampserver.com/en/)
 
-* (Linux Users)
-	 * LAMP (Please see respective instructions based on distro)
-	 * Also consider [XAMPP](http://www.apachefriends.org/en/xampp.html)
+*Linux Users
+	* LAMP (Please see respective instructions based on distro)
+	* Also consider [XAMPP](http://www.apachefriends.org/en/xampp.html)
 
-* (Macintosh Users)
+*Macintosh Users
 	* [MAMP](http://www.mamp.info/en/index.html)
 		* [Download Here](http://www.mamp.info/downloads/releases/MAMP_PRO.zip)
 		* [Setup Instructions](http://documentation.mamp.info/en)
