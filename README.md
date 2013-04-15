@@ -49,11 +49,11 @@ As part of the requirements for writing PHP code for these lessons, the followin
 
 For our purposes, we will be using a prepacked stack that ships with Apache (Web Server), PHP & MySQL. For easy initial setup, I would reccomend any of the following: 
 
-(Windows Users) - [WAMP](http://www.wampserver.com/en/) - [Download Here](http://www.wampserver.com/en/) - [Setup Instructions](http://www.wampserver.com/en/)
-(Linux Users) -   LAMP (Please see respective instructions based on distro. Also consider [XAMPP](http://www.apachefriends.org/en/xampp.html))
-(Macintosh Users) - [MAMP](http://www.mamp.info/en/index.html) - [Download Here](http://www.mamp.info/downloads/releases/MAMP_PRO.zip) - [Setup Instructions](http://documentation.mamp.info/en)
+*(Windows Users) - [WAMP](http://www.wampserver.com/en/) - [Download Here](http://www.wampserver.com/en/) - [Setup Instructions](http://www.wampserver.com/en/)
+*(Linux Users) -   LAMP (Please see respective instructions based on distro. Also consider [XAMPP](http://www.apachefriends.org/en/xampp.html))
+*(Macintosh Users) - [MAMP](http://www.mamp.info/en/index.html) - [Download Here](http://www.mamp.info/downloads/releases/MAMP_PRO.zip) - [Setup Instructions](http://documentation.mamp.info/en)
 
-Also recommended is [XAMPP](http://www.apachefriends.org/en/xampp.html)
+*Also recommended is [XAMPP](http://www.apachefriends.org/en/xampp.html)
 
 Ready to Rocket 
 ------------------

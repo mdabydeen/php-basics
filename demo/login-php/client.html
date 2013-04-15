@@ -1,0 +1,28 @@
+<!--
+
+	/* 
+	 *	File Name: client.html 
+	 *	Project Name: Login-PHP
+	 *  Project URL : https://github.com/mdabydeen/php-basics
+	 *  Author: Michael Dabydeen (@firelinks)
+	 *  Author URL: http://www.michaeldabydeen.com
+	 *  Description: A basic html page with a form setup that points to a server script called "server.php" and will send 
+	 *               data using HTTP POST request.
+	 */
+-->
+
+<!DOCTYPE HTML> 
+<html>
+	<head>
+		<title>Client.html</title>
+	</head>
+	<body>
+		<form action="server.php" method="POST"> 
+			<label>Username</label>
+			<input type="text" name="username" />
+			<label>Password</label>
+			<input type="password" name="password"/>
+			<input type="Submit" value="Yo Login Dawg"/>
+		</form>
+	</body>
+</html>
